@@ -1,4 +1,4 @@
-# Disaster-Tweet-Classification-with-Advanced-NLP-Techniques
+# Sentiment Analysis on Tweets
 I developed a machine learning model to classify tweets as either related to real disasters or not.I worked with a dataset of 10,000 hand-labeled tweets.
 In the context of emergency situations, Twitter has become a crucial communication tool:the widespread use of smartphones allows people to report emergencies in real-time, prompting various organizations such as disaster relief agencies and news outlets, to programmatically monitor Twitter for relevant information.
 
